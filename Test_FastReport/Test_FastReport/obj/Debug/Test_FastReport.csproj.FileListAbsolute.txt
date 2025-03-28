@@ -1,0 +1,15 @@
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.csproj.AssemblyReference.cache
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.csproj.SuggestedBindingRedirects.cache
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.Form1.resources
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.Properties.Resources.resources
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.csproj.GenerateResource.cache
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.csproj.CoreCompileInputs.cache
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\Test_FastReport.exe.config
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\Test_FastReport.exe
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\Test_FastReport.pdb
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\System.Drawing.Common.dll
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\System.Drawing.Common.pdb
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\bin\Debug\System.Drawing.Common.xml
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.csproj.CopyComplete
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.exe
+E:\код\Test_FastReport\Test_FastReport\Test_FastReport\Test_FastReport\obj\Debug\Test_FastReport.pdb
