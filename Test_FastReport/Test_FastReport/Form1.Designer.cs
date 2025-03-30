@@ -32,6 +32,9 @@
             this.Circle = new System.Windows.Forms.Button();
             this.Triangle = new System.Windows.Forms.Button();
             this.cancel = new System.Windows.Forms.Button();
+            this.check = new System.Windows.Forms.Button();
+            this.move = new System.Windows.Forms.Button();
+            this.size = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Rectangle
@@ -70,19 +73,55 @@
             // cancel
             // 
             this.cancel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.cancel.Location = new System.Drawing.Point(640, 363);
+            this.cancel.Location = new System.Drawing.Point(875, 363);
             this.cancel.Name = "cancel";
             this.cancel.Size = new System.Drawing.Size(97, 36);
             this.cancel.TabIndex = 3;
-            this.cancel.Text = "Отмена действий";
+            this.cancel.Text = "Прекращение действия";
             this.cancel.UseVisualStyleBackColor = true;
             this.cancel.Click += new System.EventHandler(this.cancel_Click);
+            // 
+            // check
+            // 
+            this.check.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.check.Location = new System.Drawing.Point(322, 363);
+            this.check.Name = "check";
+            this.check.Size = new System.Drawing.Size(97, 36);
+            this.check.TabIndex = 4;
+            this.check.Text = "Проверка";
+            this.check.UseVisualStyleBackColor = true;
+            this.check.Click += new System.EventHandler(this.check_Click);
+            // 
+            // move
+            // 
+            this.move.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.move.Location = new System.Drawing.Point(425, 363);
+            this.move.Name = "move";
+            this.move.Size = new System.Drawing.Size(97, 36);
+            this.move.TabIndex = 5;
+            this.move.Text = "Перемещение";
+            this.move.UseVisualStyleBackColor = true;
+            this.move.Click += new System.EventHandler(this.move_Click);
+            // 
+            // size
+            // 
+            this.size.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.size.Location = new System.Drawing.Point(528, 363);
+            this.size.Name = "size";
+            this.size.Size = new System.Drawing.Size(97, 36);
+            this.size.TabIndex = 6;
+            this.size.Text = "Изменение размеров";
+            this.size.UseVisualStyleBackColor = true;
+            this.size.Click += new System.EventHandler(this.size_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(749, 411);
+            this.ClientSize = new System.Drawing.Size(984, 411);
+            this.Controls.Add(this.size);
+            this.Controls.Add(this.move);
+            this.Controls.Add(this.check);
             this.Controls.Add(this.cancel);
             this.Controls.Add(this.Triangle);
             this.Controls.Add(this.Circle);
@@ -100,6 +139,9 @@
         private System.Windows.Forms.Button Circle;
         private System.Windows.Forms.Button Triangle;
         private System.Windows.Forms.Button cancel;
+        private System.Windows.Forms.Button check;
+        private System.Windows.Forms.Button move;
+        private System.Windows.Forms.Button size;
     }
 }
 
